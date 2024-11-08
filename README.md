@@ -16,13 +16,13 @@ This module requires the following:
 This module can be installed using [Composer](https://getcomposer.org/).
 
 ```
-composer require sifuen/module-backend-google-sso
+composer require voipsupply/module-backend-google-sso
 ```
 
 ```
 {
     "require": {
-        "sifuen/module-backend-google-sso": "^1.0"
+        "voipsupply/module-backend-google-sso": "^1.0"
     }
 }
 ```
