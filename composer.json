@@ -1,5 +1,5 @@
 {
-  "name": "sifuen/module-backend-google-sso",
+  "name": "voipsupply/module-backend-google-sso",
   "type": "magento2-module",
   "description": "Sign in to your Magento 2 admin panel using your Google account",
   "license": "MIT",
